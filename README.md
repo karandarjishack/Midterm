@@ -1,5 +1,5 @@
 # Midterm
-AI and Cybersecurity
+
 Karan S24-AISec-Midterm-Training.ipynb: https://colab.research.google.com/drive/1PVtHc9KxxownFLrMDBTlbw-NEai2uXMB?usp=sharing
 
 
