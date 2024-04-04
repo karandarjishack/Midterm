@@ -1,3 +1,4 @@
+**Youtube:** https://youtu.be/2HlF7h_7xbw
 # Midterm
 
 Karan S24-AISec-Midterm-Training.ipynb: https://colab.research.google.com/drive/1PVtHc9KxxownFLrMDBTlbw-NEai2uXMB?usp=sharing
@@ -37,6 +38,8 @@ EMBER-2017 v2 dataset: https://github.com/endgameinc/ember
 
 AWS SageMaker Documentation: https://docs.aws.amazon.com/sagemaker/latest/dg/deploy-model.html 
 
-Streamlit Documentation: https://docs.streamlit.io/
+https://docs.aws.amazon.com/sagemaker/latest/dg/notebooks-available-instance-types.html
+
+
 
 Conclusion: This project successfully demonstrated the implementation and deployment of a machine learning model for malware classification. By leveraging modern tools and technologies such as PyTorch, Amazon SageMaker, a scalable and user-friendly solution was developed. The model achieved competitive performance metrics, highlighting its potential for real-world application in cybersecurity.
