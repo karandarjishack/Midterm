@@ -45,6 +45,8 @@ Evaluated model performance using metrics such as accuracy, precision, recall, a
 Conducted latency analysis to determine the average time taken for malware detection using the cloud API.
 Generated confusion matrices to visualize the model's classification performance.
 
+**Conclusion:**
+This project successfully demonstrated the implementation and deployment of a machine learning model for malware classification. By leveraging modern tools and technologies such as PyTorch, Amazon SageMaker, a scalable and user-friendly solution was developed. The model achieved competitive performance metrics, highlighting its potential for real-world application in cybersecurity.
 
 **References:**
 
@@ -65,5 +67,3 @@ Train an MNIST model with PyTorch: https://sagemakerexamples.readthedocs.io/en/l
 PyTorch in SageMaker: https://docs.aws.amazon.com/sagemaker/latest/dg/pytorch.html
 
 
-**Conclusion:**
-This project successfully demonstrated the implementation and deployment of a machine learning model for malware classification. By leveraging modern tools and technologies such as PyTorch, Amazon SageMaker, a scalable and user-friendly solution was developed. The model achieved competitive performance metrics, highlighting its potential for real-world application in cybersecurity.
